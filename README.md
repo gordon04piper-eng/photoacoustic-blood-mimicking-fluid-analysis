@@ -1,6 +1,6 @@
 # Blood-Mimicking Fluid Analysis in Photoacoustic Imaging
 
-![Example vector flow output](vector flow map capstone project.png)
+![Example vector flow output](vector flow map example.png)
 
 ## Overview
 
