@@ -1,5 +1,7 @@
 # Blood-Mimicking Fluid Analysis in Photoacoustic Imaging
 
+![Example vector flow output](vector flow map capstone project.png)
+
 ## Overview
 
 This repository contains my undergraduate physics capstone project investigating the optical and acoustic properties of blood-mimicking fluids used in photoacoustic imaging experiments. The project focuses on evaluating the strengths and weaknesses of different blood mimicking fluids for use in photoacoustic vector flow analysis.
